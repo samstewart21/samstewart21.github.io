@@ -1,0 +1,9 @@
+#www.sastewart.net robots.txt
+User-agent: *
+Disallow: /
+
+User-agent: AdsBot-Google
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
