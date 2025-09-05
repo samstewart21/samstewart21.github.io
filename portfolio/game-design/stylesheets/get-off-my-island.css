@@ -11,7 +11,7 @@
     text-decoration: none;
 	font-size: 25px;
 }
-body{
+.content{
 	margin: 0px;
 	padding: 0px;
 	background-color: #CFE1E5; /*Light Blue*/
