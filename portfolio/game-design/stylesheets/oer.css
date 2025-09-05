@@ -1,0 +1,28 @@
+/*www.sastewart.net/portfolio/game-design/oer.html stylesheet*/
+.header {
+  background-color:#BF7A2B; /*Orange*/
+  padding: 0.25px;
+  text-align:left;
+  text-decoration: none;
+}
+
+.header a {
+    color:black;
+    text-decoration: none;
+	font-size: 25px;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #BF7A2B; /*Orange*/
+	text-align: center;
+}
+
+h1{
+	 color:#C11010; /*Dark Red*/
+	 text-align: center;
+ }
+ 
+ .oer-images{
+	text-align: center;
+ }

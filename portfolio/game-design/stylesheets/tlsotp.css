@@ -1,0 +1,28 @@
+/*www.sastewart.net/portfolio/game-design/tlsotp.html stylesheet*/
+.header {
+  background-color:#509F60; /*Green*/
+  padding: 0.25px;
+  text-align:left;
+  text-decoration: none;
+}
+
+.header a {
+    color:black;
+    text-decoration: none;
+	font-size: 25px;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #509F60; /*Green*/
+	text-align: center;
+	list-style-position: inside;
+}
+
+h1{
+	 color: pink;
+	 text-align: center;
+ }
+ 
+ .tlsotp-images{
+	text-align: center;
