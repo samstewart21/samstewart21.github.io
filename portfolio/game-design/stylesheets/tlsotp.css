@@ -1,6 +1,10 @@
 /*www.sastewart.net/portfolio/game-design/tlsotp.html stylesheet*/
+
+/*Set whole page background color*/
+html{
+	background-color: #509F60; /*Green*/
+}
 .header {
-  background-color:#509F60; /*Green*/
   padding: 0.25px;
   text-align:left;
   text-decoration: none;
@@ -14,7 +18,6 @@
 .content{
 	margin: 0px;
 	padding: 0px;
-	background-color: #509F60; /*Green*/
 	text-align: center;
 	list-style-position: inside;
 }

@@ -1,6 +1,10 @@
 /*www.sastewart.net/portfolio/game-design/office-puzzle-maze.html stylesheet*/
+/*Set whole page background color*/
+html{
+	background-color:gray;
+}
+
 .header {
-  background-color:gray; /*Gray*/
   padding: 0.25px;
   text-align:left;
   text-decoration: none;
@@ -11,10 +15,9 @@
     text-decoration: none;
 	font-size: 25px;
 }
-body{
+.content{
 	margin: 0px;
 	padding: 0px;
-	background-color: gray; /*Gray */
 	text-align: center;
 	list-style-position: inside;
 }
